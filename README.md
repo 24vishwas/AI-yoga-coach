@@ -1,5 +1,5 @@
 https://netlify--sprightly-muffin-0ef82d.netlify.app/
-👆👆👆 demo of the project
+##👆👆👆 demo of the project
 ## AI Yoga Coach
 
 The AI Yoga Coach is a project that combines the power of deep learning and React.js to create an interactive yoga coaching application. It utilizes TensorFlow's PoseNet library to extract key data points from users' yoga poses, allowing for real-time feedback and guidance.
